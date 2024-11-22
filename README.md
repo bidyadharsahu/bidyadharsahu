@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=1A73E8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Bidyadhar+Sahu+%F0%9F%91%8B;Cloud+Developer+%26+Blockchain+Enthusiast!;Welcome+to+My+GitHub+Profile+%F0%9F%8C%9F" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=1A73E8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Bidyadhar+Sahu+%F0%9F%91%8B;Cloud+Developer+%26+Blockchain+Enthusiast!;Welcome+to+My+GitHub+Profile+%F0%9F%8C%9F" alt="Typing Animation" />
 </div>
 
 ---
@@ -49,7 +49,7 @@
 - Frameworks like React, Node.js  
 
 📫 **Reach Me At:**  
-- Email: [example@gmail.com](mailto:example@gmail.com)  
+- Email: [example@gmail.com](mailto:bidyadhar.sahu.cse.2022@nist.edu)  
 
 👨‍💻 **Portfolio:**  
 - [My Portfolio Website](https://bidyadharsahu.in)  
