@@ -48,8 +48,6 @@
 - Blockchain Development (Solidity, Smart Contracts)  
 - Frameworks like React, Node.js  
 
-📫 **Reach Me At:**  
-- Email: [example@gmail.com](mailto:bidyadhar.sahu.cse.2022@nist.edu)  
 
 👨‍💻 **Portfolio:**  
 - [My Portfolio Website](https://bidyadharsahu.in)  
