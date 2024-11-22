@@ -1,81 +1,43 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=1A73E8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Bidyadhar+Sahu+%F0%9F%91%8B;Cloud+Developer+%26+Blockchain+Enthusiast;Welcome+to+my+World+of+Tech!+%E2%9C%A8" alt="Typing Animation" />
-</div>
+<h1 align="center">Hi 👋, I'm Bidyadhar</h1>
+<h3 align="center">Developer and Blockchain Enthusiast from India</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bidyadhar&label=Profile%20views&color=0e75b6&style=flat" alt="bidyadhar" /> </p>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 50px;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Web Development Animation" width="300" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bidyadhar" alt="bidyadhar" /></a> </p>
 
-  <div align="center">
-    <h3>🚀 My Tech Stack</h3>
-    <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" style="margin: 10px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" style="margin: 10px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" style="margin: 10px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="60" style="margin: 10px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="60" style="margin: 10px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="60" style="margin: 10px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" style="margin: 10px;" />
-    </div>
-  </div>
-</div>
+- 🔭 I’m currently working on **SecureVault DApp**
 
----
+- 🌱 I’m currently learning **Advanced Smart Contract Optimization and Web3 Frameworks & Chainlink Integrations**
 
-### 🌟 Featured Projects  
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px;">
+- 👯 I’m looking to collaborate on **AI-Driven Blockchain Analyzer**
 
-  <a href="https://bidyadharsahu.in" style="text-decoration: none;">
-    <button style="background-color: black; color: white; border: none; border-radius: 30px; padding: 15px 25px; font-size: 16px; font-weight: bold; cursor: pointer; transition: transform 0.3s;">
-      My Portfolio 🌐
-    </button>
-  </a>
+- 🤝 I’m looking for help with **Decentralized Identity Protocol**
 
-  <a href="https://github.com/bidyadharsahu/blockchain-projects" style="text-decoration: none;">
-    <button style="background-color: black; color: white; border: none; border-radius: 30px; padding: 15px 25px; font-size: 16px; font-weight: bold; cursor: pointer; transition: transform 0.3s;">
-      Blockchain Projects 🔗
-    </button>
-  </a>
+- 👨‍💻 All of my projects are available at [https://bidyadharsahu.in](https://bidyadharsahu.in)
 
-  <a href="https://github.com/bidyadharsahu/cloud-solutions" style="text-decoration: none;">
-    <button style="background-color: black; color: white; border: none; border-radius: 30px; padding: 15px 25px; font-size: 16px; font-weight: bold; cursor: pointer; transition: transform 0.3s;">
-      Cloud Solutions ☁️
-    </button>
-  </a>
+- 💬 Ask me about **Cloud Solutions (AWS, Azure) Blockchain Development (Solidity, Smart Contracts) Frameworks like React and Node.js**
 
-  <a href="https://github.com/bidyadharsahu/full-stack-apps" style="text-decoration: none;">
-    <button style="background-color: black; color: white; border: none; border-radius: 30px; padding: 15px 25px; font-size: 16px; font-weight: bold; cursor: pointer; transition: transform 0.3s;">
-      Full-Stack Apps 💻
-    </button>
-  </a>
+- 📫 How to reach me **bidyadhar.sahu.cse.2022@nist.edu**
 
-</div>
+- ⚡ Fun fact **I can deploy a cloud architecture faster than I can make coffee! ☕**
 
----
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-### 🌐 Connect With Me  
-<div align="center">
-  <a href="https://www.linkedin.com/in/bidyadhar-sahu/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bidyadharsahu@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://bidyadharsahu.in">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel" alt="Portfolio" />
-  </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bidyadhar-sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bidyadhar-sahu" height="30" width="40" /></a>
+<a href="https://medium.com/@bidyadhar.sahu.cse.2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bidyadhar.sahu.cse.2022" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bidyadhar_sahu_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bidyadhar_sahu_1" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@bidyadhar.sahu.cse.2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@bidyadhar.sahu.cse.2022" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bidyadharsahu&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bidyadharsahu&theme=radical" alt="Streak Stats" width="400" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bidyadhar&show_icons=true&locale=en&layout=compact" alt="bidyadhar" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bidyadhar&show_icons=true&locale=en" alt="bidyadhar" /></p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bidyadharsahu&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bidyadhar&" alt="bidyadhar" /></p>
