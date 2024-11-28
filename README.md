@@ -53,29 +53,6 @@
 👨‍💻 **Portfolio:**  
 - [My Portfolio Website](https://bidyadharsahu.in)  
 
----
-
-## 🌟 Featured Projects
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <a href="https://agrovision-sih.vercel.app/">
-    <button style="background-color: black; color: white; border: none; border-radius: 30px; padding: 15px 25px; font-size: 16px; font-weight: bold; cursor: pointer; transition: transform 0.3s;">
-      AgroVision 🌾
-    </button>
-  </a>
-  <a href="https://picaura.vercel.app/">
-    <button style="background-color: black; color: white; border: none; border-radius: 30px; padding: 15px 25px; font-size: 16px; font-weight: bold; cursor: pointer; transition: transform 0.3s;">
-      PicAura 🎨
-    </button>
-  </a>
-  <a href="https://passnest-manager.vercel.app/">
-    <button style="background-color: black; color: white; border: none; border-radius: 30px; padding: 15px 25px; font-size: 16px; font-weight: bold; cursor: pointer; transition: transform 0.3s;">
-      PassNest 🔐
-    </button>
-  </a>
-</div>
-
----
 
 ## 🌐 Connect With Me
 
